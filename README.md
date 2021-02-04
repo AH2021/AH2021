@@ -1,8 +1,14 @@
 ### Hi there 👋
+My name is Andreas and I studied at the TU Braunschweig Machine Engineering (Master of Science, finished in March. 2020) with the focus on mechatronics. A wide and interesting field, which brings new challenges every day!
+
+I’m currently learning Webdevelopment with HTML, CSS and JavaScript in my free time and I’m trying to improve my Skills with Data Science using Python. 💻
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AH2021&layout=compact)
+
 
 <!--
 **AH2021/AH2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Andreas's github stats](https://github-readme-stats.vercel.app/api?username=AH2021&show_icons=true&theme=dracula)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
