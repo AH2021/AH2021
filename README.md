@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Andreas and I studied at the TU Braunschweig Machine Engineering (Master of Science, finished in March. 2020) with the focus on mechatronics. A wide and interesting field, which brings new challenges every day!
+My name is Andreas and I studied Mechatronic Engineering at TU Braunschweig (Master of Science, finished in March 2020) with a focus on Machine Learning and Software Development. A broad and interesting field that brings new challenges every day!
 
-I’m currently learning Webdevelopment with HTML, CSS and JavaScript in my free time and I’m trying to improve my skills with Data Science using Python. At work I deal with databases, SQL and C# (.NET Framework) to create a GUI. 💻
+In my spare time I'm currently learning web development with HTML, CSS and JavaScript and trying to improve my data science skills with Python. At work I use T-SQL and C# (.NET Framework) to build GUIs and databases.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AH2021&layout=compact)
 
